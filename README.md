@@ -1,6 +1,6 @@
 # Image Caption
 
-为 [Typecho](https://typecho.org) 设计的图片注释自动添加插件。
+为 [Typecho](https://typecho.org) 设计的图片注释自动添加插件，会在图片下方生成一段文字注释。注释内容来自图片的 `alt` 属性。
 
 ## 安装
 
